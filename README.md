@@ -1,16 +1,20 @@
 ## Olá 👋
 
-<!--
-**DonRatinho/DonRatinho** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim e meus projetos.
 
-Aqui estão algumas ideias para você começar:
+### 🚀 Sobre mim
+- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web e automação.
+- 🌱 Estou aprendendo novas tecnologias como Java Script, Css, HTML e C++.
+- 👯 Estou aberto a colaborar em projetos open source e iniciativas educacionais.
+- 🤔 Preciso de ajuda com testes automatizados e boas práticas de CI/CD.
+- 💬 Pergunte-me sobre JavaScript, Node.js, APIs REST e Git.
+- 📫 Como entrar em contato comigo: [seu-email@email.com](joaomoura7876@gmail.com)
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade divertida: Já criei um bot que joga xadrez sozinho!
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Preciso de ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade divertida: ...
--->
+### 📈 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=DonRatinho&show_icons=true&theme=radical)
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e contribuir!
