@@ -1,7 +1,7 @@
 ## Olá 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim e meus projetos.
-Me chamo João, sou estudante da UDF, atualmente estou no primeiro semestre. Começando agora o uso do github. Perfil focado em mostrar o que estou aprendendo. 
+Eu me chamo João, sou estudante da UDF, atualmente estou no primeiro semestre. Começando agora o uso do github. Perfil focado em mostrar o que estou aprendendo. 
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web e automação.
