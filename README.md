@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim e m
 - 👯 Estou aberto a colaborar em projetos open source e iniciativas educacionais.
 - 🤔 Preciso de ajuda com testes automatizados e boas práticas de CI/CD.
 - 💬 Pergunte-me sobre JavaScript, Node.js, APIs REST e Git.
-- 📫 Como entrar em contato comigo: [seu-email@email.com](joaomoura7876@gmail.com)
+- 📫 Como entrar em contato comigo: [joaomoura7876@gmail.com]
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade divertida: Já criei um bot que joga xadrez sozinho!
 
