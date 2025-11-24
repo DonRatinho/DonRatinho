@@ -10,11 +10,6 @@ Eu me chamo João, sou estudante da UDF, atualmente estou no primeiro semestre. 
 - 📫 Como entrar em contato comigo: [joaomoura7876@gmail.com]
 - 😄 Pronomes: ele/dele.
 
-### 📈 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=DonRatinho&show_icons=true&theme=radical)
-
----
-
 Sinta-se à vontade para explorar meus repositórios e contribuir!
 Obs.Aceito conselhos. 
 
