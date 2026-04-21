@@ -13,5 +13,6 @@ Eu me chamo João, sou estudante da UDF, atualmente estou no primeiro semestre. 
 Sinta-se à vontade para explorar meus repositórios e contribuir!
 Obs.Aceito conselhos. 
 
-Atualmente no segundo semestre da faculdade de ADS: 
-Cursando Aplicações de Prompts com IA, Python, Interface e Jornada de Usuário e Prototipagem de Sistemas Computacionais 
+- Atualmente no segundo semestre da faculdade de ADS: 
+- Cursando Aplicações de Prompts com IA, Python, Interface e Jornada de Usuário e Prototipagem de Sistemas Computacionais
+- A procura de um estágio. 
